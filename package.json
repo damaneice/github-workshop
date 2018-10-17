@@ -17,10 +17,6 @@
   "engines": {
     "node": ">=4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:glfmn/gh-slides.git"
-  },
   "scripts": {
     "test": "grunt test"
   }

@@ -1,3 +1,3 @@
 # Git & GitHub</h1>
 
-<small>by *Gwen Lofman*</small>
+<small>by *Damon Maneice*</small>

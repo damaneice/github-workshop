@@ -20,12 +20,6 @@
     },
     "what/good-vc.md",
     "what/bad-vc.md",
-    {
-        "attr": {
-            "data-background-image": "img/bad-VC.png",
-            "data-background-size": "75vw"
-        }
-    },
     "what/commented-code.md",
     [
         "what/commandline.html",

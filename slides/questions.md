@@ -1,7 +1,7 @@
 **Questions?**
 
-<img height="300px" alt="Gwen's profile picture" src="img/png/profile.png"/>
+<img height="300px" alt="Damon's profile picture" src="img/jpg/profile.jpg"/>
 
-<small>@[glfmn] on **GitHub**</small>
+<small>@[damaneice] on **GitHub**</small>
 
-[glfmn]: https://GitHub.com/glfmn
+[damaneice]: https://github.com/damaneice

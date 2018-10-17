@@ -1,12 +1,12 @@
 **Step-by-step**
 
-1. [GitHub.com/**glfmn/github-workshop**]
+1. [GitHub.com/**damaneice/github-workshop**]
 1. Click issues
 1. Look for feedback issue ([#3])
 1. Leave some constructive feedback!
 
-[GitHub.com/**glfmn/github-workshop**]: https://github.com/glfmn/github-workshop
-[#3]: https://github.com/glfmn/github-workshop/issues/3
+[GitHub.com/**damaneice/github-workshop**]: https://github.com/damaneice/github-workshop
+[#3]: https://github.com/damaneice/github-workshop/issues/3
 
 Note:
 - it's issue #3 if you have trouble finding it
