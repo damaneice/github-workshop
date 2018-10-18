@@ -132,6 +132,7 @@
     "basic/history/log-ommission.md",
     "basic/history/git-log-stat.md",
     "basic/history/git-log-patch.md",
+    "basic/history/git-show.md",
     "basic/history/git-log-follow.md",
     "basic/history/less.md",
     "basic/history/git-log-oneline.md",
@@ -278,5 +279,12 @@
     "github/collab/pr-new.md",
     "github/collab/sbs-pr.md",
     "questions.md",
+    {
+        "filename": "questions.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "questions"
+        }
+    },
     "feedback.md"
 ]
