@@ -22,7 +22,6 @@
     "what/bad-vc.md",
     "what/commented-code.md",
     [
-        "what/commandline.html",
         "what/command-syntax.html",
         "what/filesystem.md"
     ],
@@ -278,7 +277,6 @@
     "github/collab/pr-prerec.md",
     "github/collab/pr-new.md",
     "github/collab/sbs-pr.md",
-    "questions.md",
     {
         "filename": "questions.md",
         "attr": {
